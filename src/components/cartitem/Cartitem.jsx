@@ -38,6 +38,9 @@ const Cartitem = () => {
             }
         })}
         </div>
+        <div className="orderconfirmed">
+          <button className="orderconfirmed2" onClick={()=>{}}>Confirm</button>
+        </div>
 
 
     </div>
